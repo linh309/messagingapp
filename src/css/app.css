@@ -1,0 +1,40 @@
+.user-avatar {
+    vertical-align: middle;
+    border-style: none;
+    float: left;
+}
+
+.about {
+    float: left;
+    margin-top: 8px;
+    padding-left: 8px;
+}
+
+.no-border-radius {
+    border-radius: 0px !important;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.margin-left-0 {
+    margin-left: 0px !important;
+}
+
+.message-from {
+    border: none;
+}
+
+.message-from.right {
+    text-align: right;
+}
+
+.message-from.left {
+    text-align: left;
+}
+
+.message-text {
+    padding: 10px;
+    border-radius: 20px;
+}
